@@ -3,7 +3,7 @@ var utterancePrepared = null;
 var students = [
   {name: 'cut across'},
   {name: 'cut back'},
-  {name: 'cot down on'},
+  {name: 'cut down on'},
   {name: 'cut in'},
   {name: 'cut into'},
   {name: 'cut off'},
